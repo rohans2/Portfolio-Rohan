@@ -13,6 +13,10 @@ import {
     nodejs,
     mongodb,
     git,
+    sql,
+    redux,
+    figma,
+    docker,
     android,
     flutter,
     python,
@@ -74,8 +78,8 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "SQL",
+      icon: sql,
     },
     {
       name: "React JS",
@@ -110,13 +114,10 @@ import {
       icon: android,
     },
     {
-      name: "Python",
+      name: "python",
       icon: python,
     },
-    {
-      name: "Flutter",
-      icon: flutter,
-    },
+    
   ];
   
   const experiences = [

@@ -24,6 +24,7 @@ import android from "./tech/android.png";
 import java from "./tech/java.png";
 import python from "./tech/python.png";
 import flutter from "./tech/flutter.png";
+import sql from "./tech/sql.png";
 
 
 import meta from "./company/meta.png";
@@ -81,4 +82,5 @@ export {
   tripguide,
   shortestPath,
   womanSafety,
+  sql,
 };
